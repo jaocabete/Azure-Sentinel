@@ -1,6 +1,6 @@
 attrs<=18.2.0
 bokeh<=1.0.4
-dnspython<=1.16.0
+dnspython<=2.6.0rc1
 folium<=0.7.0
 holoviews<=1.10.7
 ipwhois<=1.1.0
